@@ -48,7 +48,7 @@ sendButton.addEventListener('click', function () {
 
 // Append text to output with the command line prompt
 function appendToOutput(text) {
-    output.innerHTML += `~/portfolio$ ${text}\n`;
+    output.innerHTML += `~/dashboard$ ${text}\n`;
     output.scrollTop = output.scrollHeight; // Scroll to the latest command
 }
 
