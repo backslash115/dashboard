@@ -15,7 +15,7 @@ const commands = {
     about: 'I am a Python programmer who loves building innovative software solutions.',
     github: 'GitHub: <a href="https://github.com/backslash115" target="_blank">https://github.com/backslash115</a>',
     instagram: 'Instagram: <a href="https://www.instagram.com/backslash115/" target="_blank">https://www.instagram.com/backslash115/</a>',
-    discord: 'Discord: <a href="https://discord.com/invite/vgKNEHdYKD" target="_blank">https://discord.com/invite/vgKNEHdYKD</a>',
+    discord: 'Discord: <a href="https://discord.com/invite/vgKNEHdYKD" target="_blank">Join my discord server</a>',
     clear: 'clear',  // Handled by clearConsole()
 };
 
